@@ -41,7 +41,7 @@ Installation:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/typing-speed-tester.git
+git clone https://github.com/DebbyGHub/typing-speed-test.git
 
 
 2. Navigate to the project folder:
